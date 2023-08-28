@@ -13,6 +13,9 @@
 		6109F5912A9CDEF1006195AD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6109F58F2A9CDEF1006195AD /* Main.storyboard */; };
 		6109F5932A9CDEF2006195AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6109F5922A9CDEF2006195AD /* Assets.xcassets */; };
 		6109F5962A9CDEF2006195AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6109F5942A9CDEF2006195AD /* LaunchScreen.storyboard */; };
+		6109F59E2A9CE438006195AD /* backmusic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6109F59D2A9CE438006195AD /* backmusic.mp3 */; };
+		6109F5A02A9CE440006195AD /* cymbal.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6109F59F2A9CE440006195AD /* cymbal.mp3 */; };
+		6109F5A22A9CE447006195AD /* guitar.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6109F5A12A9CE447006195AD /* guitar.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		6109F5922A9CDEF2006195AD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6109F5952A9CDEF2006195AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6109F5972A9CDEF2006195AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6109F59D2A9CE438006195AD /* backmusic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = backmusic.mp3; sourceTree = "<group>"; };
+		6109F59F2A9CE440006195AD /* cymbal.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = cymbal.mp3; sourceTree = "<group>"; };
+		6109F5A12A9CE447006195AD /* guitar.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = guitar.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				6109F5922A9CDEF2006195AD /* Assets.xcassets */,
 				6109F5942A9CDEF2006195AD /* LaunchScreen.storyboard */,
 				6109F5972A9CDEF2006195AD /* Info.plist */,
+				6109F59D2A9CE438006195AD /* backmusic.mp3 */,
+				6109F59F2A9CE440006195AD /* cymbal.mp3 */,
+				6109F5A12A9CE447006195AD /* guitar.mp3 */,
 			);
 			path = "1-4_MyMusic";
 			sourceTree = "<group>";
@@ -126,6 +135,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				6109F5962A9CDEF2006195AD /* LaunchScreen.storyboard in Resources */,
+				6109F5A02A9CE440006195AD /* cymbal.mp3 in Resources */,
+				6109F5A22A9CE447006195AD /* guitar.mp3 in Resources */,
+				6109F59E2A9CE438006195AD /* backmusic.mp3 in Resources */,
 				6109F5932A9CDEF2006195AD /* Assets.xcassets in Resources */,
 				6109F5912A9CDEF1006195AD /* Main.storyboard in Resources */,
 			);
